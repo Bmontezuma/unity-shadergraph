@@ -71,3 +71,7 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# Ignore large ice texture files
+Assets/Materials/Task3/ice_0002_normal_directx_4k.png
+Assets/Materials/Task3/ice_0002_normal_opengl_4k.png
